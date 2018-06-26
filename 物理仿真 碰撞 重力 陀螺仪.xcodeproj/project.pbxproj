@@ -342,7 +342,7 @@
 				DEVELOPMENT_TEAM = U2Q8AKAV4B;
 				INFOPLIST_FILE = "物理仿真 碰撞 重力 陀螺仪/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kezhao.--------------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kezhao.G;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -356,7 +356,7 @@
 				DEVELOPMENT_TEAM = U2Q8AKAV4B;
 				INFOPLIST_FILE = "物理仿真 碰撞 重力 陀螺仪/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kezhao.--------------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kezhao.G;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
